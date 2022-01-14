@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-I’m working on FullStack projects with **JS Framework** and **Java Environment**
-
 <div align="left">
   <a href="https://fr.linkedin.com/in/roman-cottinet-a726a612b">
     <img
@@ -25,6 +21,8 @@ I’m working on FullStack projects with **JS Framework** and **Java Environment
 <br />
 
 ## I am Roman Cottinet
+
+I’m working on FullStack projects with **JS Framework** and **Java Environment**
 
 - 23
 - FullStack developer at [OUI.sncf](https://fr.linkedin.com/company/e-voyageurs-sncf)
