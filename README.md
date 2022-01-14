@@ -4,7 +4,7 @@
 
 I'm 23, and I work at OUI.sncf as Software Engineer.
 
-I’m currently working on FullStack project with **JS Framework & Technologies** and **Java Environment**
+I’m working on FullStack projects with **JS Framework & Technologies** and **Java Environment**
 
 
 🌱 I’m currently learning :
