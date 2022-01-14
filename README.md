@@ -1,16 +1,36 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/rcottinet"><img src="https://api.daily.dev/devcards/f7583926fda346e89bc540c74f9cc839.png?r=wz7" width="400" alt="Roman Cottinet's Dev Card"/></a>
-
-I'm 23, and I work at OUI.sncf as Software Engineer.
-
-I’m working on FullStack projects with **JS Framework & Technologies** and **Java Environment**
 
 
-🌱 I’m currently learning :
+I’m working on FullStack projects with **JS Framework** and **Java Environment**
 
-- Web3 technologies by curiosity
-- AWS to get competences and knowledge in cloud tech
+<div align="left">
+  <a href="https://fr.linkedin.com/in/roman-cottinet-a726a612b">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://app.daily.dev/rcottinet">
+    <img 
+         src="https://api.daily.dev/devcards/f7583926fda346e89bc540c74f9cc839.png?r=wz7" 
+         width="300" 
+         alt="Roman Cottinet's Dev Card"
+         align="right"
+     />
+  </a>
+</div>
+
+<br />
+
+## I am Roman Cottinet
+
+- 23
+- FullStack developer at [OUI.sncf](https://fr.linkedin.com/company/e-voyageurs-sncf)
+- Passionate
+  
+  
 <!--
 **rcottinet/rcottinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
