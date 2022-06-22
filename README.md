@@ -22,7 +22,7 @@
 
 ## I am Roman Cottinet
 
-I’m working on FullStack projects with **JS Framework** and **Java Environment**
+I’m working on FullStack projects with **JS Framework** and **Java Framework**
 
 - 23
 - FullStack developer at [OUI.sncf](https://fr.linkedin.com/company/e-voyageurs-sncf)
