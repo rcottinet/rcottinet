@@ -22,12 +22,7 @@
 
 ## I am Roman Cottinet
 
-I’m working on FullStack projects with **JS Framework** and **Java Framework**
-
-- 25
-- FullStack developer
-- Passionate
-  
+Working on various projects with **JS/Java Framework**
   
 <!--
 **rcottinet/rcottinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
